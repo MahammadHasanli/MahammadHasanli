@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on people who are professional in this field; wants to learn such stuff interesred in my work.
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Business and Management related stuff.
-- 📫 How to reach me: You contact with me through the email: mhasanli7782@ada.edu.az, and phone number: +994 51 464 00 00
+- 📫 How to reach me: You can contact with me through the email: mhasanli7782@ada.edu.az, and phone number: +994 51 464 00 00
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love learning and developing myself.
