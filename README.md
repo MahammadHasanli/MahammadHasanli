@@ -23,3 +23,12 @@ https://colab.research.google.com/github/ogut77/University/blob/main/ReviewMidte
 https://colab.research.google.com/github/ogut77/University/blob/main/ReviewFinal.ipynb
 
 Tableau File Links:
+
+1. https://public.tableau.com/app/profile/mahammad4245/viz/Homework_1_Q1/Dashboard1?publish=yes
+
+2. https://public.tableau.com/app/profile/mahammad4245/viz/Homework_1_Q2/Dashboard1?publish=yes
+
+3. https://public.tableau.com/app/profile/mahammad4245/viz/Homework1_Q3/Dashboard1?publish=yes
+
+4. https://public.tableau.com/app/profile/mahammad4245/viz/CustomerOrderReport1/Sheet1?publish=yes
+
