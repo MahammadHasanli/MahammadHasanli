@@ -49,3 +49,7 @@ Tableau File Links:
 11. https://public.tableau.com/app/profile/mahammad4245/viz/Homework8Question3/Dashboard1?publish=yes
 
 12. https://public.tableau.com/app/profile/mahammad4245/viz/Homework8Question4/Sheet6?publish=yes
+
+13. https://public.tableau.com/app/profile/mahammad4245/viz/Homework9SalesandProfit1/Dashboard1
+
+14. https://public.tableau.com/app/profile/mahammad4245/viz/Homework9Question2/Story1
