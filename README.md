@@ -36,3 +36,16 @@ Tableau File Links:
 
 5. https://public.tableau.com/app/profile/mahammad4245/viz/Ss2022recording_3/Sheet2?publish=yes
 
+6. https://public.tableau.com/app/profile/mahammad4245/viz/Question1_16689719071650/Sheet6?publish=yes
+
+7. https://public.tableau.com/app/profile/mahammad4245/viz/Question2_16689719397420/Sheet3?publish=yes
+
+8. https://public.tableau.com/app/profile/mahammad4245/viz/Question3_16689718792830/Sheet7?publish=yes
+
+9. https://public.tableau.com/app/profile/mahammad4245/viz/Homework8Question1_16701806136160/Sheet2?publish=yes
+
+10. https://public.tableau.com/app/profile/mahammad4245/viz/Homework8Question2/Sheet5?publish=yes
+
+11. https://public.tableau.com/app/profile/mahammad4245/viz/Homework8Question3/Dashboard1?publish=yes
+
+12. https://public.tableau.com/app/profile/mahammad4245/viz/Homework8Question4/Sheet6?publish=yes
