@@ -53,3 +53,17 @@ Tableau File Links:
 13. https://public.tableau.com/app/profile/mahammad4245/viz/Homework9SalesandProfit1/Dashboard1
 
 14. https://public.tableau.com/app/profile/mahammad4245/viz/Homework9Question2/Story1
+
+15. https://public.tableau.com/app/profile/mahammad4245/viz/FinalQuestion4_16724052705300/Sheet4
+
+16. https://public.tableau.com/app/profile/mahammad4245/viz/FinalQuestion1st/Sheet5
+
+17. https://public.tableau.com/app/profile/mahammad4245/viz/FinalQuestion3_16724049107410/Sheet6
+
+18. https://public.tableau.com/app/profile/mahammad4245/viz/FinalDashboardQuestion2/Dashboard1
+
+19. https://public.tableau.com/app/profile/mahammad4245/viz/TransactionsOpenValuePerDay/Sheet1
+
+20. https://public.tableau.com/app/profile/mahammad4245/viz/Dashboardanddata3_17_2022/Dashboard1
+
+21. https://public.tableau.com/app/profile/mahammad4245/viz/StudentReports_16474946406220/Sheet1
